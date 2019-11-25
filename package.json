@@ -1,6 +1,6 @@
 {
   "name": "transgit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple way to run the entire viz chain together",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,7 @@
     "url": "https://github.com/cpsc410/runner/issues"
   },
   "bin": {
-    "transgit-analysis": "./GithubAnalysis/src/main.js",
-    "transgit-viz": "./viz_metro/build/src/Server.js",
-    "transgit": "./run.js"
+    "transgit": "./run"
   },
   "homepage": "https://github.com/cpsc410/runner#readme"
 }
