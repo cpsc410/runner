@@ -2,7 +2,7 @@
 var shell = require('shelljs');
 
 
-shell.exec(__dirname + "/GithubAnalysis/shell/gitStatsAll.sh " + __dirname + "/GithubAnalysis/resources/valid/stats.txt");
+shell.exec(__dirname + "/GithubAnalysis/shell/gitStatsAll.sh " + __dirname + "/GithubAnalysis/resources/valid/statsEverything.txt");
 
 shell.cd(__dirname + "/GithubAnalysis/src");
 
