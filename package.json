@@ -1,6 +1,6 @@
 {
   "name": "transgit",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "simple way to run the entire viz chain together",
   "main": "index.js",
   "scripts": {
