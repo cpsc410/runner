@@ -1,0 +1,10 @@
+#!/bin/bash
+cd GithubAnalysis
+tsc src/main.ts
+chmod +x src/main.js
+cd ..
+cd viz_metro
+npm run build
+chmod +x build/src/Server.js
+cd ..
+

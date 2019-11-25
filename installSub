@@ -1,0 +1,9 @@
+#!/bin/bash
+git submodule update --init --recursive
+cd GithubAnalysis
+npm install
+cd ..
+cd viz_metro
+npm install
+cd ..
+
