@@ -1,0 +1,6 @@
+[submodule "viz_metro"]
+	path = viz_metro
+	url = git@github.com:cpsc410/viz_metro.git
+[submodule "GithubAnalysis"]
+	path = GithubAnalysis
+	url = git@github.com:cpsc410/GithubAnalysis.git
