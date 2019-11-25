@@ -18,7 +18,10 @@
     "url": "https://github.com/cpsc410/runner/issues"
   },
   "bin": {
-    "transgit": "./run"
+    "transgit": "./run.js"
   },
-  "homepage": "https://github.com/cpsc410/runner#readme"
+  "homepage": "https://github.com/cpsc410/runner#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
 }
