@@ -4,13 +4,14 @@ simple way to run the entire viz chain together
 
 ### You can run this in terminal:
 ```
-./transgit
+npm install --global transgit     # You may notice build errors, but it should still work
+transgit                          # Run this in your repo directory
 ```
 
 ### Additionally to enhance analysis and rendering, transgit can take up to four command line arguments
 ```
  Usage
-    $ ./transgit <input>
+    $ ./transgit
 
 	Options
 	  --languageSpec, -l  Choose language to view
