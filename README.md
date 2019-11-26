@@ -2,7 +2,7 @@
 simple way to run the entire viz chain together
 
 
-### You can running this in terminal:
+### You can run this in terminal:
 ```
 transgit
 ```
